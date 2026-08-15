@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-dosjgo.indocuan-pro.site/sitemap.xml
